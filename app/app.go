@@ -19,8 +19,8 @@ import (
 
 const (
 	// Name is the name of this app.
-	Name    = "lux"
-	version = "v0.19.0"
+	Name    = "rdtool-downloader"
+	version = "v0.1.0"
 )
 
 func init() {
